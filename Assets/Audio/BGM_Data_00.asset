@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53d47052e774a9844b03c44171c8ad50, type: 3}
+  m_Name: BGM_Data_00
+  m_EditorClassIdentifier: 
+  sheet:
+  - bgmName: "\u3000"
+    bgmClip: {fileID: 8300000, guid: d3a0d9f47e9c7484eb9df5a0e0ff3a01, type: 3}
+  - bgmName: sooze wotaku feat.SHIKI
+    bgmClip: {fileID: 8300000, guid: 2a7ffcb570f3dfb4d8fc47200b8de859, type: 3}
+  - bgmName: "\u30AE\u30E3\u30E9\u30EA\u30A2  \u67CA\u30AD\u30E9\u30A4 feat.flower"
+    bgmClip: {fileID: 8300000, guid: bd9a6eaa1633f594f90407fea154ecca, type: 3}
+  - bgmName: "\u30DE\u30D5\u30A3\u30A2  wotaku feat. \u521D\u97F3\u30DF\u30AF"
+    bgmClip: {fileID: 8300000, guid: abc6597001a95004594338b6af801e4e, type: 3}
+  - bgmName: "\u521D\u97F3\u30DF\u30AF\u30AB\u30EC\u30B7\u306E\u30B8\u30E5\u30FC\u30C9syudou"
+    bgmClip: {fileID: 8300000, guid: 86be9e24ba64dc94789f8a049dea0835, type: 3}
+  - bgmName: "Ado\u591C\u306E\u30D4\u30A8\u30EDTeddyLoid Remix"
+    bgmClip: {fileID: 8300000, guid: f4a58e8041a944c42b9f6ae06bf57aee, type: 3}
+  - bgmName: "Ado\u8E0A (Bon-Odo Remix)"
+    bgmClip: {fileID: 8300000, guid: 2982ca800d5017540aff2e651634b846, type: 3}
+  - bgmName: "flower\u521D\u97F3\u30DF\u30AF\u30A4\u30F1\u30B9\u30DE\u30F3Official"
+    bgmClip: {fileID: 8300000, guid: 7725941f235cecf479adfdea8836b948, type: 3}
+  - bgmName: "\u30E9\u30B9\u30C8\u30EA\u30BD\u30FC\u30C8  \u521D\u97F3\u30DF\u30AF"
+    bgmClip: {fileID: 8300000, guid: 1ac3fb0a95b0e8149a769283121976fd, type: 3}
